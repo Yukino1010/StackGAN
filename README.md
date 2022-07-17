@@ -20,7 +20,8 @@
 - TARGET_IMG_SIZE = 256
 
 ## Data
-
+This implementation using CelebA (a large-scale face attributes dataset ) <br>
+https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 
 ## Result
 
