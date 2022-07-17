@@ -1,1 +1,1 @@
-# StackGAN-
+# StackGAN
