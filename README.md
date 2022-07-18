@@ -2,12 +2,12 @@
 
 ## Introduce
 This is an implementation of StackGAN++ [https://arxiv.org/abs/1710.10916]. <br>
-StackGAN is a breakthrough of high-resolution image generation. To generate high-resolution image, StackGAN consists of multiple generators
-and multiple discriminators to tackle with different resolution respectively. In addition, the authir add Color-consistency regularization on the generator, to make sure the consistency of color in different resolution.
+StackGAN is a breakthrough in high-resolution image generation. To generate high-resolution images, StackGAN consists of multiple generators
+and multiple discriminators to tackle with different resolutions respectively. In addition, the author add Color-consistency regularization on the generator, to make sure the consistency of color in different resolution.
 
 ## Network Structure
 
-![image](https://github.com/Yukino1010/Style_Transfer_Part1/blob/master/1_y1siCwwrhkrBSTaY7QL5Xw.png)
+![image](https://github.com/Yukino1010/StackGAN/blob/master/stack.png)
 
 
 ## Hyperparameters
