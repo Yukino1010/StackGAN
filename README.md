@@ -8,7 +8,7 @@ and multiple discriminators to tackle with different resolutions respectively. I
 ## Network Structure
 
 ![image](https://github.com/Yukino1010/StackGAN/blob/master/stack.png)
-
+(https://arxiv.org/abs/1710.10916)
 
 ## Hyperparameters
 - D_DIM = 64
@@ -28,5 +28,12 @@ https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 
 ## Result
 
+![image](image/epoch_50_fake_image.jpg)
+![image](image/epoch_74_fake_image.jpg) <br>
+![image](image/epoch_80_fake_image.jpg)
+![image](image/epoch_46_fake_image.jpg)
+
 
 ## References
+1. ***StackGAN*** [[arxiv](https://arxiv.org/abs/1710.10916)]
+2. ***Tensorflow implementation of the StackGAN++*** (https://github.com/zacharynevin/StackGAN)
